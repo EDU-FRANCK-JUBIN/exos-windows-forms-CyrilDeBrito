@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexagons", "Hexagons\Hexagons.csproj", "{229B1E2D-D061-40D4-8948-2F6D2865B37E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{229B1E2D-D061-40D4-8948-2F6D2865B37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229B1E2D-D061-40D4-8948-2F6D2865B37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229B1E2D-D061-40D4-8948-2F6D2865B37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229B1E2D-D061-40D4-8948-2F6D2865B37E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFB95EB6-FFC0-4D69-9450-4BC835114CAA}
+	EndGlobalSection
+EndGlobal
